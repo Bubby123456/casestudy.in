@@ -26,3 +26,24 @@ h1 {
     font-family: cursive;
     color: rgb(118, 205, 109);
 }
+span {
+    color: rgb(3, 148, 3);
+}
+.style_div {
+    background-color: pink;
+    border-radius: 85px !important;
+    width: 600px;
+}
+.stylep {
+    color: royalblue;
+    font-size: 30px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: pink;
+    bottom: 0;
+    width: 100%;
+    background-color:white;
+    line-height: 3;
+    text-align: center;
+}
